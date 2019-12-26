@@ -4,30 +4,9 @@
 	
 	"token": "NjU5MjAwNDU5MDU5MjMyNzY4.XgK2ZA.pIbT1MHXALzAH5iKNZlYRRX_lIQ",
 	
-	"BotStatus": "Introducing E-Hub",
+	"BotStatus": "-intro | -birthday",
 	
 	"prefix": "-",
-    "botname": "ApplyBot",
-    "colour": "#fca903",
-    "footer": "ApplyBot, By Emerald Services",
-	
-	"management": "Management",
-    "everyone": "@everyone",
-    "Staff_Position": "Staff",
-	
-    "Apply_Log": "applications",
-    "Commands_Log_Title": "Application Logs",
-    "Command_Log_Channel": "command-logs",
-	
-	
-	"App_Accept": "Thank you for being patient with us.\nOur management team have decided to accept your application.\nTo close this channel please react below.",
-	"App_Deny": "Thank you for being patient with us but unfortuately our management team have decided to deny your application.\nTo close this channel please react below.",
-
-    "Apply_Welcome_Message": "Thank you for creating your application. Select an option below to start the application progress.",
-	
-	"App_Start": "Your application will now begin.\nAnswer all the questions with as much detail as possible and answer Truthfully. **Good Look!**",
-	"App_End": ":wave: Your application has successfully come to the end. We have send of your application to our management team.\nPlease wait here patiently whilst we read through your application.",
-	
     "Apply_Command": "intro",
     "Birthday_Command": "birthday",
     "Cancel_command": "cancel"
