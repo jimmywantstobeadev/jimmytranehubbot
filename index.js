@@ -45,4 +45,4 @@ bot.on("message", async message => {
     cmd.run(bot, message, args);
 });
 
-bot.login("NjU5MjAwNDU5MDU5MjMyNzY4.XgK2ZA.pIbT1MHXALzAH5iKNZlYRRX_lIQ");
+bot.login(process.env.token);
